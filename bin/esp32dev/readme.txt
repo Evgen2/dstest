@@ -1,0 +1,1 @@
+full flash for ESP wroom 32
